@@ -3,7 +3,7 @@ main {
 }
 
 .main-div {
-    padding: 150px 20%;
+    padding: 120px 15%;
 }
 
 .main-text {
@@ -12,7 +12,7 @@ main {
 }
 
 .main-picture {
-    max-width: 40%;
+    max-width: 50%;
     float: right;
 }
 
