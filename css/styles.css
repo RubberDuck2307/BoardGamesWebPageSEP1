@@ -1,0 +1,39 @@
+/*site settings*/
+*{
+    font-family: "Roboto Light";
+    color: black;
+}
+/* navigation menu----------------------------------------------------------*/
+
+.navigation-menu {
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.navigation-menu li {
+    list-style: none;
+    float: right;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+/*getting rid of underlines*/
+.navigation-menu li a{
+    text-decoration: none;
+}
+
+/* setting the position of the first element (logo) to the left */
+.navigation-menu li:nth-child(1) {
+    float: left;
+    margin-top: 0;
+}
+.navigation-menu li a:hover {
+    color: #564797;
+}
+.navigation-menu li a:focus {
+    color: #564797;
+}
+
+
+
