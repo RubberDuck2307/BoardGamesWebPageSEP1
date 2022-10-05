@@ -81,9 +81,11 @@ a{
     text-decoration: none;
 }
 
-.eventCard img:last-of-type{
+.eventCard a img{
     width: 24px;
     height: 24px;
+    margin-top: 20px;
+    margin-right: 20px;
     float: right;
 }
 
