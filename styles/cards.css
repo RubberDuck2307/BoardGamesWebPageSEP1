@@ -78,6 +78,12 @@
     margin-top: 12px;
 }
 
+.button:hover {
+    background: #FFFFFF;
+    border: 1px solid #564797;
+    color: #564797;
+}
+
 a{
     text-decoration: none;
 }
