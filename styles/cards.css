@@ -13,7 +13,7 @@
 .gameCard{
     width: 255px;
     height: 366px;
-    border: 1px solid;
+    border: 1px solid #DFDFDF;
     border-radius: 10px;
     padding: 0;
     color: gray;
