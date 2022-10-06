@@ -66,9 +66,9 @@
 
 .button{
     box-sizing: border-box;
-    width: 74px;
+    width: 150px;
     height: 36px;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: #564797;
     color: white;
     text-align: center;
@@ -80,7 +80,8 @@
 
 .button:hover {
     background: #FFFFFF;
-    border: 1px solid #564797;
+    border: 5px solid #564797;
+    padding-top: 2px;
     color: #564797;
 }
 
